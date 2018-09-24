@@ -64,7 +64,7 @@ unset($_POST);
 		float:left;
 	}
 	header > div > img{
-		width:20%;
+		width:30%;
 	}
 	header > div > h1{
 		width:80%;
